@@ -1,12 +1,12 @@
 body{
-    background-color: #0f010d;
+    background-color: #000000;
     border: groove;
 }
 
 img{
     width: 800px;
     border: 15px;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(128, 75, 75, 0);
      
 }
 h2{
