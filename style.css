@@ -9,3 +9,8 @@ img{
     background-color: rgba(209, 25, 255, 0.411);
      
 }
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(255, 1, 1);
+}
