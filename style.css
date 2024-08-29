@@ -5,12 +5,12 @@ body{
 
 img{
     width: 700px;
-    border: 15px;color: blue;
+    border: 15px;color: 
     background-color: rgba(243, 6, 184, 0);
      
 }
 h2{
-    text-align: center;
+    text-align: center;color: blue;
     margin-bottom: 20px;
     color: rgb(112, 1, 1);
 }
