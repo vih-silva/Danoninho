@@ -1,3 +1,9 @@
-body{
-    background-color: rgba(236, 17, 218, 0.404);
+bbody{
+    background-color: #d321217a;
+}
+
+img{
+    width: 700px;
+    border: 10px;
+    background-color: rgba(209, 25, 255, 0.411);
 }
