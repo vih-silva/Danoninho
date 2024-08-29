@@ -5,7 +5,7 @@ body{
 
 img{
     width: 700px;
-    border: 15px;
+    border: 15px;color: blue;
     background-color: rgba(243, 6, 184, 0);
      
 }
